@@ -1,6 +1,6 @@
 # facebook   
 
-**An Application like FACEBOOK, you can add friends by sending request ,accept pending request,like a post,share a post, follow someone,see your profile,post something etc..**.   
+**This Application is like FACEBOOK, you can add friends by sending request ,accept pending request,like a post,share a post, follow someone,see your profile,post something etc..**.   
    **Build with  Java, Spring, Maven, Hikari Connection Pool, JDBI**   
 #### Installation and Setup Instructions: ####
 Clone down this repository. You will need jdk and mysql-server to be installed on your machine.  
